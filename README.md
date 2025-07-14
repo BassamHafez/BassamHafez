@@ -2,7 +2,7 @@
 <h3>A passionate Frontend Developer from Egypt 🇪🇬</h3>
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height="200"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height="300"/>
 <div align="left">
 ### 🧑‍💻 About Me
 - 🌟 Freelance Frontend Developer  
@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
@@ -33,7 +33,7 @@
 
 ### 📫 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="mailto:bassamhafez790@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
@@ -51,13 +51,13 @@
 
 ### 🔥 My GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bassamhafez&show_icons=true&theme=radical&hide_title=true" height="170" alt="Bassam's GitHub stats" />
 </div>
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamhafez&layout=compact&theme=radical" height="170" alt="Top languages" />
 </div>
 
