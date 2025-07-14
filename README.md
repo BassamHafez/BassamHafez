@@ -1,9 +1,8 @@
 <h1> Hi 👋, I'm Bassam Hafez</h1>
 <h3>A passionate Frontend Developer from Egypt 🇪🇬</h3>
 
----
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height={200}/>
 <div align="left">
 ### 🧑‍💻 About Me
 - 🌟 Freelance Frontend Developer  
@@ -12,8 +11,6 @@
   </div>
 </div>
 
-
----
 
 ### 🛠️ Tech Stack
 
@@ -33,7 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
 </div>
 
----
 
 ### 📫 Connect With Me
 
@@ -52,7 +48,6 @@
   </a>
 </div>
 
----
 
 ### 🔥 My GitHub Stats
 
@@ -65,8 +60,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamhafez&layout=compact&theme=radical" height="170" alt="Top languages" />
 </div>
-
----
 
 ### 📈 GitHub Contribution Graph
 
