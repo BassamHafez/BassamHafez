@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Bassam Hafez</h1>
 <h3 align="center">A passionate Frontend Developer from Egypt 🇪🇬</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="200" alt="coding gif" />
-</div>
-
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      
 ### 🧑‍💻 About Me
 
-- 🌟 Freelance Frontend Developer
-- 💻 I work mainly with **React, Next.js, Redux, and TailwindCSS**
-- 🌱 Currently learning **advanced TypeScript & testing**
-- 📫 Reach me at `bassamhafez790@gmail.com`
-- 🎯 Fun Fact: I love clean UI, beautiful animation, and reusable components
+- 🌟 Freelance Frontend Developer  
+- 💻 I work mainly with **React, Next.js, Redux, and TailwindCSS**  
+- 📫 Reach me at `bassamhafez790@gmail.com`  
+
+    </td>
+    <td valign="top" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="180" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,35 +63,16 @@
 
 ### 🔥 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bassamhafez&show_icons=true&theme=radical&hide_title=true" height="170" alt="Bassam's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamhafez&layout=compact&theme=radical" height="170" alt="Top languages"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bassamhafez&show_icons=true&theme=radical&hide_title=true" height="170" alt="Bassam's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamhafez&layout=compact&theme=radical" height="170" alt="Top languages" />
+</div>
 
 ---
 
 ### 📈 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bassamhafez&theme=github-compact" alt="Bassam's Contribution Graph"/>
-</p>
-
----
-
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/bassamhafez/EasyJob" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bassamhafez&repo=EasyJob&theme=radical" />
-  </a>
-  <a href="https://github.com/bassamhafez/Give-A-Gift" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bassamhafez&repo=Give-A-Gift&theme=radical" />
-  </a>
-</p>
-
----
-
-### ⚡ Fun Fact
-
-> I treat every component like a mini product — clean, reusable, and user-friendly!
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bassamhafez&theme=github-compact" alt="Bassam's Contribution Graph" />
+</div>
