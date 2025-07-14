@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bassam Hafez</h1>
-<h3 align="center">A passionate Frontend Developer from Egypt 🇪🇬</h3>
-
----
+<h1> Hi 👋, I'm Bassam Hafez</h1>
+<h3>A passionate Frontend Developer from Egypt 🇪🇬</h3>
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top">
       
 ### 🧑‍💻 About Me
 
@@ -15,7 +13,7 @@
 
     </td>
     <td valign="top" align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" height="180" alt="coding gif" />
+      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  alt="coding gif" />
     </td>
   </tr>
 </table>
