@@ -1,9 +1,11 @@
 <h1> Hi 👋, I'm Bassam Hafez</h1>
 <h3>A passionate Frontend Developer from Egypt 🇪🇬</h3>
 
-<table style={border:none}>
+---
+
+<table>
   <tr>
-    <td valign="top" style={border:none}>
+    <td valign="top">
       
 ### 🧑‍💻 About Me
 
@@ -12,8 +14,8 @@
 - 📫 Reach me at `bassamhafez790@gmail.com`  
 
     </td>
-    <td valign="top" align="right" style={border:none}>
-      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  alt="coding gif" />
+    <td valign="top" align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height="180" />
     </td>
   </tr>
 </table>
@@ -63,7 +65,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bassamhafez&show_icons=true&theme=radical&hide_title=true" height="170" alt="Bassam's GitHub stats" />
-  <br/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamhafez&layout=compact&theme=radical" height="170" alt="Top languages" />
 </div>
 
