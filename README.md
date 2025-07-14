@@ -3,9 +3,9 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: start; flex-wrap: wrap; gap: 20px;">
+<div>
 
-  <div style="flex: 1; min-width: 250px;">
+  <div align="left">
 
 ### 🧑‍💻 About Me
 
@@ -15,7 +15,7 @@
 
   </div>
 
-  <div style="flex-shrink: 0;">
+  <div align="right">
     <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height="180" />
   </div>
 
