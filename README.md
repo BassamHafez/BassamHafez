@@ -3,7 +3,6 @@
 
 ---
 
-<div>
 
   <div align="left">
 
@@ -15,11 +14,7 @@
 
   </div>
 
-  <div align="right">
-    <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height="180" />
-  </div>
-
-</div>
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height="180" />
 
 
 ---
