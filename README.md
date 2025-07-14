@@ -49,13 +49,13 @@
 
 ### 🔥 My GitHub Stats
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bassamhafez&show_icons=true&theme=radical&hide_title=true" height="170" alt="Bassam's GitHub stats" />
 </div>
 
 <br/>
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamhafez&layout=compact&theme=radical" height="170" alt="Top languages" />
 </div>
 
