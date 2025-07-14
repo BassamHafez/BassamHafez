@@ -4,9 +4,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="coding gif" height="250"/>
 <h4>🧑‍💻 About Me</h4>
   <ul align="left">
-<li>>🌟 Freelance Frontend Developer  </li
-<li> 💻 I work mainly with **React, Next.js, Redux, and TailwindCSS**  </li>
-<li> 📫 Reach me at `bassamhafez790@gmail.com`  </li>
+<li>Freelance Frontend Developer</li>
+<li>Frontend Developer at Mirrorful Co </li>
+<li>Reach me at `bassamhafez790@gmail.com`  </li>
   </ul>
 
 
