@@ -40,12 +40,6 @@
   </a>
 </div>
 
-### 🔥 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassamhafez&layout=compact&theme=radical" height="170" alt="Top languages" />
-</div>
-
 ### 📈 GitHub Contribution Graph
 
 <div align="center">
